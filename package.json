@@ -1,7 +1,7 @@
 {
   "name": "oraculo-apolo",
   "version": "0.1.0",
-  "homepage": "https://apolosolinvictus.github.io/oraculo-apolo/",
+  "homepage": "https://github.io/apolosolinvictus/oraculo-apolo/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
